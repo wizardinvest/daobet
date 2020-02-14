@@ -1,0 +1,47 @@
+{
+    "producer_account_name": "wizardinvest",
+    "org": {
+        "candidate_name": "WizardInvest",
+        "website": "https://github.com/wizardinvest/daobet",
+        "ownership_disclosure": "",
+        "phone": "",
+        "code_of_conduct": "",
+        "email": "",
+        "branding": {
+            "logo_256": "https://github.com/wizardinvest/daobet/images/logo256.png",
+            "logo_1024": "https://github.com/wizardinvest/daobet/images/logo1024.png",
+            "logo_svg": "https://github.com/wizardinvest/daobet/images/logo128.svg"
+        },
+        "location": {
+            "name": "Pocatello",
+            "country": "US",
+            "latitude": 42.862103,
+            "longitude": -112.450623
+        },
+        "social": {
+            "steemit": "",
+            "twitter": "",
+            "youtube": "",
+            "facebook": "",
+            "github": "",
+            "reddit": "",
+            "keybase": "",
+            "telegram": "",
+            "wechat": ""
+        }
+    },
+    "nodes": [
+        {
+            "location": {
+                "name": "Pocatello",
+                "country": "US",
+                "latitude": 42.862103,
+                "longitude": -112.450623
+            },
+            "node_type": "producer",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        }
+    ]
+}
